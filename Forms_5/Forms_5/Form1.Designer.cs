@@ -51,6 +51,7 @@ namespace Forms_5
             this.MenuDo.DropDownItems.Add("Next");
             this.MenuDo.DropDownItems.Add("Back");
             this.MenuDo.DropDownItems.Add("Home");
+            this.MenuDo.DropDownItems.Add("Refresh");
             this.MenuDo.DropDownItems.Add("Close tab");
             this.MenuDo.DropDownItems.Add("Open tab");
 
@@ -58,11 +59,12 @@ namespace Forms_5
             this.MenuDo.DropDownItems[1].Click += Web_Next_Click;
             this.MenuDo.DropDownItems[2].Click += Web_Back_Click;
             this.MenuDo.DropDownItems[3].Click += Web_Home_Click;
+            this.MenuDo.DropDownItems[4].Click += Web_Refresh_Click;
 
             this.Addres.KeyDown += Addres_KeyDown;
 
-            this.MenuDo.DropDownItems[4].Click += Tab_CloseTab_Click;
-            this.MenuDo.DropDownItems[5].Click += Tab_OpenTab_Click;
+            this.MenuDo.DropDownItems[5].Click += Tab_CloseTab_Click;
+            this.MenuDo.DropDownItems[6].Click += Tab_OpenTab_Click;
 
             this.Menu.Items.Add(this.MenuDo);
 
@@ -76,6 +78,11 @@ namespace Forms_5
             this.AutoSize = true;
             this.Controls.Add(this.Panel);
             this.Text = "Browser";
+        }
+
+        private void Web_Refresh_Click(object sender, EventArgs e)
+        {
+            (Tab.SelectedTab.Controls[0] as WebBrowser).Refresh();
         }
 
         private void Addres_KeyDown(object sender, KeyEventArgs e)
