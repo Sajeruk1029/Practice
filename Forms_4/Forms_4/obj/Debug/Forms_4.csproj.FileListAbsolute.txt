@@ -1,0 +1,14 @@
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\bin\Debug\Forms_4.exe.config
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\bin\Debug\Forms_4.exe
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\bin\Debug\Forms_4.pdb
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.csprojAssemblyReference.cache
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.Properties.Resources.resources
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.csproj.GenerateResource.cache
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.csproj.CoreCompileInputs.cache
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.exe
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.pdb
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\bin\Debug\Sprache.Calc.dll
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\bin\Debug\Sprache.dll
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\bin\Debug\Sprache.xml
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.csproj.CopyComplete
+C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.Form1.resources

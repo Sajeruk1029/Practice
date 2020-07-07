@@ -1,0 +1,10 @@
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.csprojAssemblyReference.cache
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.Form1.resources
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.Properties.Resources.resources
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.csproj.GenerateResource.cache
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.csproj.CoreCompileInputs.cache
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\bin\Debug\Forms_1.exe.config
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\bin\Debug\Forms_1.exe
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\bin\Debug\Forms_1.pdb
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.exe
+C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.pdb

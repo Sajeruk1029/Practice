@@ -1,0 +1,9 @@
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\bin\Debug\Forms_6.exe.config
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\bin\Debug\Forms_6.exe
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\bin\Debug\Forms_6.pdb
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\obj\Debug\Forms_6.csprojAssemblyReference.cache
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\obj\Debug\Forms_6.Properties.Resources.resources
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\obj\Debug\Forms_6.csproj.GenerateResource.cache
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\obj\Debug\Forms_6.csproj.CoreCompileInputs.cache
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\obj\Debug\Forms_6.exe
+C:\Users\Sajeruk\source\repos\Forms_6\Forms_6\obj\Debug\Forms_6.pdb
