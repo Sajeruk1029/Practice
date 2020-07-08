@@ -8,3 +8,13 @@ C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\bin\Debug\Forms_1.exe
 C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\bin\Debug\Forms_1.pdb
 C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.exe
 C:\Users\Sajeruk\source\repos\Forms_1\Forms_1\obj\Debug\Forms_1.pdb
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\bin\Debug\Forms_1.exe.config
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\bin\Debug\Forms_1.exe
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\bin\Debug\Forms_1.pdb
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\obj\Debug\Forms_1.csprojAssemblyReference.cache
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\obj\Debug\Forms_1.Form1.resources
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\obj\Debug\Forms_1.Properties.Resources.resources
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\obj\Debug\Forms_1.csproj.GenerateResource.cache
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\obj\Debug\Forms_1.csproj.CoreCompileInputs.cache
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\obj\Debug\Forms_1.exe
+C:\Root_BD\Praktika\Practice\Forms_1\Forms_1\obj\Debug\Forms_1.pdb

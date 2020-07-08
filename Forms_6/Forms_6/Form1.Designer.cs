@@ -205,7 +205,7 @@ namespace Forms_6
                 MailAddress recipientMail = new MailAddress(this.TextBoxes[2].Text);
 
                 MailMessage message = new MailMessage(senderEmail, recipientMail);
-                message.Subject = this.TextBoxes[3].Text;
+                message.Body = this.TextBoxes[3].Text;
                 message.IsBodyHtml = false;
 
                 SmtpClient smtp = new SmtpClient(this.TextBoxes[4].Text, Convert.ToInt32(this.PortText.Text));

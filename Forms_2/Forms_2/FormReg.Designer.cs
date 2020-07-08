@@ -40,11 +40,11 @@ namespace Forms_2
             this.Panel = new System.Windows.Forms.TableLayoutPanel() { RowCount = 9, ColumnCount = 2, AutoSize = true };
 
             this.Login = new System.Windows.Forms.TextBox();
-            //this.Password = new System.Windows.Forms.TextBox() { UseSystemPasswordChar = true };
+            this.Password = new System.Windows.Forms.TextBox() { UseSystemPasswordChar = true };
             this.RepeatPassword = new System.Windows.Forms.TextBox() { UseSystemPasswordChar = true };
             this.Email = new System.Windows.Forms.TextBox();
 
-            this.Password = new System.Windows.Forms.MaskedTextBox() { Mask = "A-z" };
+            //this.Password = new System.Windows.Forms.MaskedTextBox() {  };
             this.SeriaPasport = new System.Windows.Forms.MaskedTextBox() { Mask = "0000" };
             this.NumberPasport = new System.Windows.Forms.MaskedTextBox() { Mask = "000000" };
             this.NumberPhone = new System.Windows.Forms.MaskedTextBox() { Mask = "00000000000" };
@@ -141,8 +141,8 @@ namespace Forms_2
         //private System.Windows.Forms.TextBox Password;
         private System.Windows.Forms.TextBox RepeatPassword;
         private System.Windows.Forms.TextBox Email;
+        private System.Windows.Forms.TextBox Password;
 
-        private System.Windows.Forms.MaskedTextBox Password;
         private System.Windows.Forms.MaskedTextBox NumberPhone;
         private System.Windows.Forms.MaskedTextBox SeriaPasport;
         private System.Windows.Forms.MaskedTextBox NumberPasport;

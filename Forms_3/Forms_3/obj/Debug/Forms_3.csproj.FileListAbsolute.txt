@@ -7,3 +7,12 @@ C:\Users\Sajeruk\source\repos\Forms_3\Forms_3\obj\Debug\Forms_3.csproj.GenerateR
 C:\Users\Sajeruk\source\repos\Forms_3\Forms_3\obj\Debug\Forms_3.csproj.CoreCompileInputs.cache
 C:\Users\Sajeruk\source\repos\Forms_3\Forms_3\obj\Debug\Forms_3.exe
 C:\Users\Sajeruk\source\repos\Forms_3\Forms_3\obj\Debug\Forms_3.pdb
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\bin\Debug\Forms_3.exe.config
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\bin\Debug\Forms_3.exe
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\bin\Debug\Forms_3.pdb
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\obj\Debug\Forms_3.csprojAssemblyReference.cache
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\obj\Debug\Forms_3.Properties.Resources.resources
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\obj\Debug\Forms_3.csproj.GenerateResource.cache
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\obj\Debug\Forms_3.csproj.CoreCompileInputs.cache
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\obj\Debug\Forms_3.exe
+C:\Root_BD\Praktika\Practice\Forms_3\Forms_3\obj\Debug\Forms_3.pdb

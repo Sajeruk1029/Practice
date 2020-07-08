@@ -9,3 +9,14 @@ C:\Users\Sajeruk\source\repos\Forms_2\Forms_2\obj\Debug\Forms_2.exe
 C:\Users\Sajeruk\source\repos\Forms_2\Forms_2\obj\Debug\Forms_2.pdb
 C:\Users\Sajeruk\source\repos\Forms_2\Forms_2\obj\Debug\Forms_2.Form1.resources
 C:\Users\Sajeruk\source\repos\Forms_2\Forms_2\obj\Debug\Forms_2.FormReg.resources
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\bin\Debug\Forms_2.exe.config
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\bin\Debug\Forms_2.exe
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\bin\Debug\Forms_2.pdb
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\obj\Debug\Forms_2.csprojAssemblyReference.cache
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\obj\Debug\Forms_2.Form1.resources
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\obj\Debug\Forms_2.FormReg.resources
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\obj\Debug\Forms_2.Properties.Resources.resources
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\obj\Debug\Forms_2.csproj.GenerateResource.cache
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\obj\Debug\Forms_2.csproj.CoreCompileInputs.cache
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\obj\Debug\Forms_2.exe
+C:\Root_BD\Praktika\Practice\Forms_2\Forms_2\obj\Debug\Forms_2.pdb

@@ -12,3 +12,17 @@ C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\bin\Debug\Sprache.dll
 C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\bin\Debug\Sprache.xml
 C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.csproj.CopyComplete
 C:\Users\Sajeruk\source\repos\Forms_4\Forms_4\obj\Debug\Forms_4.Form1.resources
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\bin\Debug\Forms_4.exe.config
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\bin\Debug\Forms_4.exe
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\bin\Debug\Forms_4.pdb
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\bin\Debug\Sprache.Calc.dll
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\bin\Debug\Sprache.dll
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\bin\Debug\Sprache.xml
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\obj\Debug\Forms_4.csprojAssemblyReference.cache
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\obj\Debug\Forms_4.Form1.resources
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\obj\Debug\Forms_4.Properties.Resources.resources
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\obj\Debug\Forms_4.csproj.GenerateResource.cache
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\obj\Debug\Forms_4.csproj.CoreCompileInputs.cache
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\obj\Debug\Forms_4.csproj.CopyComplete
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\obj\Debug\Forms_4.exe
+C:\Root_BD\Praktika\Practice\Forms_4\Forms_4\obj\Debug\Forms_4.pdb
